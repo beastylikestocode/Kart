@@ -1,0 +1,47 @@
+@font-face { font-family: 'Rubik'; src: url('Assets/fonts/Rubik-VariableFont_wght.ttf'); } 
+@font-face {font-family: 'Coolvetica'; src: url('Assets/fonts/coolvetica\ rg.otf');}
+
+ html, body{
+    margin: 0;
+    padding: 0;
+    background-color: #EEF0F4;
+    font-family: 'Rubik', sans-serif;
+}
+
+.main{
+    display: flex;
+    flex-direction: column;
+    max-width: 320px;
+    margin: 30px auto;
+    text-align: center;
+}
+
+.kart{
+    font-family: 'Coolvetica', sans-serif;
+    font-size: 4em;
+    margin: 50px auto;
+}
+
+
+.input-field{
+    font-family: 'Coolvetica', sans-serif;
+    color: #432000;
+    background-color: #DCE1EB;
+    border: 0;
+    padding: 15px;
+    border-radius: 8px;
+    font-size: 20px;
+    text-align: center;
+    margin-bottom: 8px;
+}
+
+.add-button{
+    font-family: 'Coolvetica', sans-serif;
+    color: #FDFDFD;
+    background-color: #2d2d2d;
+    border: 0;
+    padding: 15px;
+    border-radius: 8px;
+    font-size: 20px;
+    text-align: center;
+}
