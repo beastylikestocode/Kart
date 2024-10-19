@@ -20,6 +20,7 @@
     font-family: 'Coolvetica', sans-serif;
     font-size: 4em;
     margin: 50px auto;
+    color: #2d2d2d;
 }
 
 
@@ -44,4 +45,23 @@
     border-radius: 8px;
     font-size: 20px;
     text-align: center;
+}
+
+ul{
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+    color: #2d2d2d;
+    font-family: 'Rubik', sans-serif;
+    font-size: 18px;
+}
+
+ul li{
+    background-color: #DCE1EB;
+    box-shadow: 0px 1px 4px rgba(0,0,0,0.2);
+    padding: 15px;
+    border-radius: 8px;
+    flex-grow: 1;
 }
