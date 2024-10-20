@@ -1,3 +1,5 @@
 Shopping cart app to add groceries so i buy it next time
 
-![image](https://github.com/user-attachments/assets/bf69edd9-9894-44a8-b950-306521fe294d)
+
+![image](https://github.com/user-attachments/assets/56191974-22be-43e0-b04f-64d0459047ef)
+
